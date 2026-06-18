@@ -1,4 +1,4 @@
-# 🧪 From prescriptions to pull requests. 💊 → 💻
+# From prescriptions to pull requests. 💊 → 💻
 
 I used to be a **pharmacist**. Yes, a real one — degree and everything. I could tell you why mixing two medicines is a bad idea.
 
@@ -16,6 +16,7 @@ const me = {
 ```
 
 🚀 **Currently:** turning coffee into code (results may vary)
+
 🔬 **Lab experiments:** [HonorarX](https://www.honorarx.de) · [Includere](https://www.includere-psychotherapie.de) · [EuroStay](https://eurostay.onrender.com)
 
 > *"From prescriptions to `npm install` — somehow it all makes sense."*
