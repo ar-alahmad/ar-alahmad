@@ -1,10 +1,12 @@
 # From prescriptions to pull requests. 💊 → 💻
 
-I used to be a **pharmacist**. Yes, a real one — degree and everything. I could tell you why mixing two medicines is a bad idea.
+I used to be a **pharmacist** 🧪. <br> Yes, a real one degree and everything.<br> I could tell you why mixing two medicines is a bad idea.
 
-Then one day I looked at my life and thought: *"You know what's also a bad idea to mix? Tabs and spaces."* And just like that, I became a **developer.** 🎉
+Then one day I looked at my life and thought:<br> *"You know what's also a bad idea to mix? Tabs and spaces."* <br> And just like that, I became a **developer.** 🎉
 
-These days instead of counting pills, I count semicolons. Instead of side effects, I debug side effects (the JavaScript kind). My patients are now web apps, and trust me — they get sick a LOT.
+These days instead of counting pills, I count semicolons. <br> Instead of side effects, I debug side effects (the JavaScript kind). <br> My patients are now web apps, and trust me they get sick a LOT.
+
+---
 
 ```js
 const me = {
@@ -14,6 +16,8 @@ const me = {
   caffeine: Infinity,
 };
 ```
+
+---
 
 ## 🚀 Projects
 
