@@ -23,7 +23,7 @@ const me = {
 ## 🛠️ Tech Stack:
 
 ### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ### Frameworks/Libraries:
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Context API](https://img.shields.io/badge/React%20Context%20API-61DAFB?style=flat&logo=react&logoColor=black)
@@ -35,6 +35,10 @@ const me = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-292929?style=flat&logo=sublime-text&logoColor=important) ![API Testing Tools](https://img.shields.io/badge/API%20Testing-FF5C5C?style=flat&logo=postman&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-0061F2?style=flat&logo=openai&logoColor=white) ![Anthropic Claude](https://img.shields.io/badge/Claude-5F69B3?style=flat&logo=anthropic&logoColor=white) ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-1A1A1A?style=flat&logo=cursor&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white) ![Nodemailer](https://img.shields.io/badge/Nodemailer-34A853?style=flat&logo=gmail&logoColor=white) ![React Date Picker](https://img.shields.io/badge/React%20Date%20Picker-61DAFB?style=flat&logo=react&logoColor=black) ![SFTP](https://img.shields.io/badge/SFTP-008080?style=flat&logo=serverfault&logoColor=white)
 
 
+## 📊 GitHub Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ar-alahmad&show_icons=true&theme=radical)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-alahmad&layout=compact&theme=radical)
 
 
