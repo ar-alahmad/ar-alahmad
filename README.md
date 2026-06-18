@@ -15,11 +15,7 @@ const me = {
 };
 ```
 
-🚀 **Currently:** turning coffee into code (results may vary)
-
-🔬 **Lab experiments:** [HonorarX](https://www.honorarx.de) · [Includere](https://www.includere-psychotherapie.de) · [EuroStay](https://eurostay.onrender.com)
-
-> *"From prescriptions to `npm install` — somehow it all makes sense."*
+**🔗 Projects:** [HonorarX](https://www.honorarx.de) · [Includere](https://www.includere-psychotherapie.de) · [EuroStay](https://eurostay.onrender.com)
 
 ## 🛠️ Tech Stack:
 
