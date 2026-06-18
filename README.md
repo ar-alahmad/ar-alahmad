@@ -1,4 +1,4 @@
-# 🧪 Hi, I'm Abdul Rhman
+# 🧪 From prescriptions to pull requests. 💊 → 💻
 
 I used to be a **pharmacist**. Yes, a real one — degree and everything. I could tell you why mixing two medicines is a bad idea.
 
