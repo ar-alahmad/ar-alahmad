@@ -15,7 +15,16 @@ const me = {
 };
 ```
 
-**🔗 Projects:** [HonorarX](https://www.honorarx.de) · [Includere](https://www.includere-psychotherapie.de) · [EuroStay](https://eurostay.onrender.com)
+## 🚀 Projects
+
+**[Includere Psychotherapie](https://www.includere-psychotherapie.de/en)**
+My first official client project — a website for a psychotherapy practice.
+
+**[HonorarX](https://www.honorarx.de)**
+A private tool I built for myself and fellow freelancers to track their shifts and create invoices.
+
+**[EuroStay](https://eurostay.onrender.com)**
+A hotel booking website built as a team project (3 people) for my final project at DCI. [See the presentation »](https://espresent.onrender.com)
 
 ## 🛠️ Tech Stack:
 
